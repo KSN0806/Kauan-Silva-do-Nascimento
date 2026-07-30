@@ -4,7 +4,7 @@
 
 Estudante de Tecnologia da Informação
 
-Atualmente estudando: - Python - Programação Orientada a Objetos - Git e GitHub
+Atualmente estudando: - Python - Programação Orientada a Objetos (POO) - Git e GitHub
 
 Objetivo: Conquistar minha primeira oportunidade na área de desenvolvimento.
 
